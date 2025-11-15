@@ -27,5 +27,5 @@
 )]
 ## Top Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1325X&repo=Leetcode-DSA)](https://github.com/ashutosh1325X/Leetcode-DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1325X&repo=Leetcode-DSA)(https://github.com/ashutosh1325X/Leetcode-DSA)]
 
