@@ -23,8 +23,8 @@
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh1325X&show_icons=true&theme=radical&cache_seconds=10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1325X&layout=donut&cache_seconds=10)](https://github.com/ashutosh1325X)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1325X&layout=compact
+)]
 ## Top Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1325X&repo=Leetcode-DSA)](https://github.com/ashutosh1325X/Leetcode-DSA)
