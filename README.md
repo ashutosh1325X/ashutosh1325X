@@ -25,4 +25,4 @@
 
 ## Top Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rishu0204&repo=hand-sign-detection)](https://github.com/Rishu0204/hand-sign-detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosh1325X&repo=Leetcode-DSA)](https://github.com/ashutosh1325X/Leetcode-DSA.git)
