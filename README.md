@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 🔭 I’m currently working on Java and Springboot
+### 🔭 I’m currently working on React and Springboot
 
 ### 💬 Ask me about database, LLM, or AI
 
